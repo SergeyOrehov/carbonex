@@ -5,9 +5,9 @@ import "./styles.scss";
 
 const Footer = () => {
   return (
-    <div className="footer">
+    <footer className="footer">
       <h1> Footer</h1>;
-    </div>
+    </footer>
   );
 };
 
